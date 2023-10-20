@@ -1,0 +1,239 @@
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\core-wrapper.dll
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\tt-net-api.dll
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\Orderbook_Manager\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\Orderbook_Manager\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\core-wrapper.dll
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\tt-net-api.dll
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\orderbook_testing\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\tt\orderbook_testing\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\core-wrapper.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\tt-net-api.dll
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\tt\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\core-wrapper.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\tt-net-api.dll
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\tt\order_book code\Orderbook_Manager-3 new\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\core-wrapper.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\tt-net-api.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\tt\order_book code\Orderbook_Manager-3 FINAL\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\core-wrapper.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\tt-net-api.dll
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\tt\order_book code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe.config
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.exe
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\core-wrapper.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\CsvHelper.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Buffers.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Memory.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\tt-net-api.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\CsvHelper.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Google.ProtocolBuffers.Serialization.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Microsoft.Bcl.HashCode.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Newtonsoft.Json.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Buffers.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Memory.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\TimeZoneConverter.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Form1.resources
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.exe
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\obj\x64\Debug\WindowsFormsApp1.pdb
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Serilog.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Serilog.Sinks.File.dll
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Serilog.xml
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Serilog.Sinks.File.pdb
+C:\tt\ready_code\Orderbook_Manager-3 FINAL - Copy\WindowsFormsApp1\bin\x64\Debug\Serilog.Sinks.File.xml
